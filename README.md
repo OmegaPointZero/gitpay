@@ -88,10 +88,11 @@ For exhaustive list of options available, refer `migration.js` in root directory
 ## Run project
 
 ### Frontend server
-`npm run dev`
+
+Navigate to the `/frontend/` folder and run `npm run dev`
 
 ### Backend (node.js)
-`npm run start:dev`
+From the root folder, run `npm run start:dev`
 
 Then you can access at http://localhost:8082
 
